@@ -1,0 +1,411 @@
+@media screen and (max-width: 1399px) {
+    .service-tabs button {
+        width: 150px;
+        font-size: 13px;
+    }
+    /* .navbar-nav.main-header  {
+        padding: 13px 11px;
+   
+    }
+    .main-menu a {
+        font-size: 19px;
+    }
+   
+    .service-tabs {
+        width: 71%;
+    }
+    .fiction {
+        background: #FFFFFF;
+        padding: 15px;
+        border-radius: 13px;
+    }
+   
+    .fiction img {
+        width: 105%;
+    }
+    
+    .fiction p {
+        font-size: 15px;
+    }
+    .section-10-content h2 {
+            width: 445px;
+    }
+
+    section.section-12 h3 {
+        font-size: 44px;
+        font-weight: 800;
+    }
+    .section-10-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .section-10-content h2 {
+       
+            width: 427px;
+        
+      
+    }
+    .navbar-expand-lg {
+        justify-content:space-between;
+    }
+    .Book-Writer {
+        margin: -10px;
+    } */
+        
+}
+@media screen and (max-width: 1237px) {
+   
+    /* .sec-6-content {
+        margin-top: 14px;
+    }
+    section.section-7 p {
+        font-size: 14px;
+    }
+    .writers-icons {
+        background: #F9F3F7;
+        padding: 17px 18px;
+        margin: 7px;
+    }
+    section.section-11 {
+        padding: 57px;
+    }
+    .ebook-writers-box {
+        background: #F9F3F7;
+        padding: 14px 17px;
+        border-radius: 8px;
+        margin: 7px 0px;
+    }
+    .Choose-us-content p {
+        font-size: 17px;
+    }
+    .Choose-us-content h5 {
+        color: #27213C;
+        font-weight: 800;
+        font-size: 21px;
+    }
+    section.section-12 h3 {
+        font-size: 41px;
+        font-weight: 800;
+    }
+    section.section-15 {
+        padding: 54px;
+    
+    } */
+
+}
+@media screen and (max-width: 991px) {
+    .hero-section {
+        padding: 50px 3px;
+        padding-bottom: 160px;
+    }
+    .hero-text p{width: 100%;}
+    .section-1 {
+        margin-top: -100px;
+    }
+    section.section-2 {
+        padding: 50px 0px;
+    }
+    .main-icons {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .main-icons p {
+        font-size: 14px;
+     }
+     section.section-4{
+        background: transparent;
+     }
+     .customer-reviews {
+        padding: 30px;
+        background: #27213c;
+    }
+    .book-slder {
+        padding: 15px 40px;
+        background: #f7f0f5;
+    }
+    section.section-5 {
+        padding: 40px 0px;
+        text-align: center;
+    }
+    .get-started-2 {
+        margin-top: 10px;
+    }
+    .get-started-2 a {
+        margin-bottom: 40px;
+        display: inline-block;
+    }
+    .gallery-tabs button {
+        padding: 10px 26px;
+        font-size: 16px;
+    }
+    .sec-6-content {
+        margin-top: 66px;
+        text-align: center;
+    }
+    .writers-icons {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .service-tabs {
+        width: 100%;
+    }
+    .fiction {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .section-10 {
+        padding: 50px 0px;
+    }
+    .fiction a {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .section-10-content img{display: none;}
+    section.section-11 {
+        padding: 50px 0px;
+    }
+    .sec11-image {
+        text-align: center;
+    }
+    .section-13 {
+        padding: 50px 0px;
+     
+    }
+    section.section-13 h5 {
+        font-size: 50px;
+        margin-top: 10px;
+    }
+    section.section-13 p {
+        font-size: 16px;
+     
+    }
+    section.section-14 {
+        padding: 50px 0px;
+        text-align: center;
+    }
+    .slick-prev, .slick-next {
+        top: auto;
+        bottom: -30px;
+    }
+    .testimonials-slider button.slick-prev.slick-arrow {
+        left: 46%;
+    }
+    .testimonials-slider .slick-next {
+        right: auto;
+        left: 53%;
+    }
+    .footer {
+        padding: 50px 0px;
+     }
+     .Quick.Links ul {
+        padding: 0px;
+    }
+    .btn_cnfrm {
+        text-align: left;
+    }
+    .Quick.Links button.btn_org {
+        font-size: 18px;
+        color: #fff;
+    }
+}
+@media screen and (max-width: 767px) {
+    .top-socials ul {
+        display: none;
+    }
+    .hero-text h1 {
+        font-size: 34px;
+    }
+    .hero-text h2 {
+        font-size: 26px;
+    }
+    .get-started-2 {
+        margin-top: 25px;
+    }
+    .hero-text p {
+        font-size: 19px;
+    }
+    .hero-section {
+        padding: 63px 3px;
+       
+    }
+    .section-2-content h2 {
+     
+        font-size: 34px;
+    }
+    .main-icons {
+        display: block;
+        width: 100%;
+        text-align: center;
+        max-width: 420px;
+        margin: 0px auto;
+        margin-bottom: 10px;
+    }
+    .customer-reviews h2 {
+        font-size: 34px;
+      
+    }
+    .book-slder h2 {
+        font-size: 34px;
+    }
+    section.section-5 h2 {
+        font-size: 37px;
+    }
+    section.section-6 h2 {
+        font-size: 28px;
+    }
+    .gallery-tabs button {
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+    section.section-7 h2 {
+        font-size: 37px;  
+    }
+    section.section-9 h2 {
+    font-size: 37px;
+}
+.section-10-content {
+    align-items: center;
+    justify-content: space-between;
+    display: block;
+}
+.section-10-content h2 {
+    font-size: 24px;
+    text-align: center;
+    width: auto;
+}
+.get-started-3 {
+    text-align: center;
+    margin-top: 22px;
+}
+.get-started-3 a {
+    padding: 12px 8px;
+    font-size: 12px;
+}
+section.section-11 {
+     padding: 0px 0px; 
+}
+section.section-14 h2 {
+    margin-top: 26px;
+}
+section.section-15 img {
+    width: 100%;
+}
+.section-5 img{width: 100%;}
+section.section-4{padding: 50px 0px; margin-top: 0px;}
+.sec11-image img{width: 100%;}
+.service-tabs button {
+    width: 42%;
+    font-size: 12px;
+}
+.fiction img {
+    width: 100%;
+}
+section.section-9{padding: 40px 0px;}
+section.section-12 {
+    padding: 50px 0px;
+ }
+.PROJECT-Brief-box {display: block;}
+.PROJECT-Brief-box img {width:auto;height: auto; margin-bottom: 20px;}
+section.section-6 {
+    padding: 74px 0px;
+    }
+    section.section-8 {
+        margin-top:0px;
+        padding: 30px 0px;
+    }
+    section.section-7{padding: 30px 0px;}
+    .section-14 img {
+        width: 100%;
+    }     
+}
+@media screen and (max-width: 767px) {
+    .footer-icons ul {
+        display: flex;
+        gap: 15px;
+        list-style: none;
+        padding: 15px 0px;
+        margin: 0px;
+        font-size: 19px;
+        justify-content: center;
+    }
+    .footer-logo {
+        border-bottom: 2px solid #ffffffb8;
+        padding-bottom: 44px;
+        display: block;
+    }
+    section.section-15 ul li img {
+        margin-right: 4px;
+        width: 27px;
+    }
+    section.section-15 h3 {
+        font-size: 23px;
+       
+    }
+    section.section-7 h2 {
+        font-size: 34px;
+    }
+    .hero-text h2 {
+        font-size: 15px;
+    }
+    .get-started-2 a {
+
+        padding: 11px 14px;
+        font-size: 14px;
+     
+    }
+    .get-started-2 a:nth-child(2){
+        padding: 11px 14px;
+        font-size: 14px;
+        
+    }
+    .get-started-2 a {
+        display: block;
+        margin-bottom: 16px;
+        
+    }
+    .section-1 img {
+        width: 86%;
+        margin-top: 48px;
+    }
+    .section-2-content h2 {
+        font-size: 29px;
+    }
+    .section-2-content UL LI {
+        color: #8C8C8C;
+        list-style: none;
+        padding: 1px;
+        font-size: 14px;
+        display: flex;
+    }
+    .main-icons {
+      
+        width: 90%;
+      
+    }
+    .customer-reviews h2 {
+        font-size: 23px;
+        
+    }
+    .customer-reviews p {
+
+        font-size: 15px;
+       
+    }
+    .cutomer-info p {
+        text-align: left;
+    }
+    .customer-reviews p {
+        font-size: 12px;
+      
+        
+    }
+    .book-slder h2 {
+        font-size: 24px;
+    }
+    
+}
+
+
+
